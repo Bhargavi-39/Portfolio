@@ -44,10 +44,11 @@ This repo showcases my projects, artifacts, and dashboards — blending **clarit
 
 ## 📬 Contact
 
-- 🌐 Portfolio Website: [YourPortfolioLinkHere](#)
-- 💼 LinkedIn: [https://www.linkedin.com/in/bhargavi-rajanala/](#)
-- 📧 Email: [bhargavi.b9392@gmail.com](#)
+- 🌐 Portfolio Website: https://bhargavi-39.github.io/Portfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/bhargavi-rajanala/
+- 📧 Email: bhargavi.b9392@gmail.com
 
 ---
 
 © 2025Vault&Verse. All rights reserved.
+
